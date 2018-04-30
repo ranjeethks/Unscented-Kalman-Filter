@@ -51,6 +51,7 @@ OUTPUT: values provided by the c++ program to the simulator
   * Linux: gcc / g++ is installed by default on most Linux distros
   * Mac: same deal as make - [install Xcode command line tools](https://developer.apple.com/xcode/features/)
   * Windows: recommend using [MinGW](http://www.mingw.org/)
+* C++ Eigen library - add Eigen library folder within /src folder
 
 ## Basic Build Instructions
 
